@@ -16,19 +16,19 @@ type student = {
 // object should include a name and an array of grades.
 
 let student1:student = {
-    name: "Shiraz Ali",
+    name: "Fatima",
     class: "1st-year",
     grades: [80, 92, 77, 66, 88], //grades of shiraz ali
   };
   
   let student2:student = {
-      name: "Hassan Ali",
+      name: "Maryam",
       class: "1st-year",
       grades: [82, 62, 87, 66, 84], //grades of Hassan Ali
     };
   
     let student3:student= {
-      name: "Zabrain khan",
+      name: "Shamim",
       class: "1st-year",
       grades: [66, 97, 71, 65, 58], //grades of Zabrain khan
     };
