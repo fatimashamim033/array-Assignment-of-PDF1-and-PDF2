@@ -1,17 +1,17 @@
 // 2. Create an array named students containing at least three student objects. Each student 
 // object should include a name and an array of grades.
 var student1 = {
-    name: "Shiraz Ali",
+    name: "Fatima",
     class: "1st-year",
     grades: [80, 92, 77, 66, 88], //grades of shiraz ali
 };
 var student2 = {
-    name: "Hassan Ali",
+    name: "Maryam",
     class: "1st-year",
     grades: [82, 62, 87, 66, 84], //grades of Hassan Ali
 };
 var student3 = {
-    name: "Zabrain khan",
+    name: "Shamim",
     class: "1st-year",
     grades: [66, 97, 71, 65, 58], //grades of Zabrain khan
 };
